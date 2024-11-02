@@ -1,0 +1,32 @@
+{
+  "contacts": [
+    {
+      "id": "78670763-21c8-4f9d-bcfd-8bc8fcf737d8",
+      "name": "Santhya",
+      "email": "santh1204@gmail.com",
+      "phone": "+9163617487",
+      "address": "Bangalore"
+    },
+    {
+      "id": "752f65b4-832f-4793-ab36-aa98a8dd660a",
+      "name": "Akshay",
+      "email": "akshay@gmail.com",
+      "phone": "9090909090",
+      "address": "Mysore"
+    },
+    {
+      "id": "d2046a29-f454-49c6-ba21-0616cd0ece5f",
+      "name": "googly",
+      "email": "googly1204@gmail.com",
+      "phone": "09090909090",
+      "address": "mayakonda"
+    },
+    {
+      "id": "e0ba137c-024e-4ea5-b645-c4c35708ecb0",
+      "name": "Santhoshkumar A",
+      "email": "santhoshkumara1204@gmail.com",
+      "phone": "916361748785",
+      "address": "Jp Nagar"
+    }
+  ]
+}
